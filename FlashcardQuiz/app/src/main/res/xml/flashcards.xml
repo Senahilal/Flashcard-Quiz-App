@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flashcards>
+    <card>
+        <question>What is the capital of France?</question>
+        <answer>Paris</answer>
+    </card>
+    <card>
+        <question>What is the capital of Turkiye?</question>
+        <answer>Ankara</answer>
+    </card>
+    <card>
+        <question>What is the capital of Germany?</question>
+        <answer>Berlin</answer>
+    </card>
+    <card>
+        <question>What is the capital of Kazakhstan?</question>
+        <answer>Astana</answer>
+    </card>
+    <card>
+        <question>What is the capital of Switzerland?</question>
+        <answer>Bern </answer>
+    </card>
+    <card>
+        <question>What is the capital of Azerbaijan?</question>
+        <answer>Baku</answer>
+    </card>
+    <card>
+        <question>What is the capital of Japan?</question>
+        <answer>Tokyo</answer>
+    </card>
+    <card>
+        <question>What is the capital of South Korea?</question>
+        <answer>Seoul</answer>
+    </card>
+</flashcards>
